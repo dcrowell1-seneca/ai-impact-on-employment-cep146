@@ -7,3 +7,11 @@ This repository contains the research notes, presentation materials, and media a
 - Link to YouTube video
 - Final discussion question
 - References and sources used
+
+
+## Rationale of this Essay
+
+This essay assesses the assertions that artificial intelligence will lead to significant job displacement. 
+Although AI has started to influence specific job sectors, recent labor market data suggests a trend of overall employment stability instead of widespread disruption. 
+
+The analysis concludes that the main challenge posed by AI is the uneven effects it has and the need for long-term adaptation of the workforce, rather than an impending collapse of employment.
