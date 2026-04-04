@@ -15,3 +15,5 @@ This essay assesses the assertions that artificial intelligence will lead to sig
 Although AI has started to influence specific job sectors, recent labor market data suggests a trend of overall employment stability instead of widespread disruption. 
 
 The analysis concludes that the main challenge posed by AI is the uneven effects it has and the need for long-term adaptation of the workforce, rather than an impending collapse of employment.
+
+[Project Presentation: Artificial Intelligence Current Event Topics] (https://youtu.be/jCE23RjaLlI?si=TOeiuJ-TpZ0W9Cz4)
